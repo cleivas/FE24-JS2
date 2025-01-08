@@ -4,7 +4,7 @@ function Superhero(n, superpower){
     this.age = 100;
 }
 
-Superhero.prototype.usePower = ()=>{
+Superhero.prototype.usePower = function(){
     console.log( `I will kill you with my ${this.superpower}`)
 }
 
