@@ -2,6 +2,7 @@ function Superhero(n, superpower){
     this.name = n;
     this.superpower = superpower;
     this.age = 100;
+
 }
 
 Superhero.prototype.usePower = function(){
