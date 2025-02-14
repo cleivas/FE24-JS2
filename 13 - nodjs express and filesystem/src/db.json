@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1739528308440,
+      "name": "kim",
+      "admin": true
+    },
+    {
+      "id": 1739528337336,
+      "name": "kim",
+      "admin": true
+    },
+    {
+      "name": "kevin",
+      "admin": true,
+      "id": 1739529086427
+    }
+  ]
+}
