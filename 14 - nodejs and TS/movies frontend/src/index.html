@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="./main.ts"></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Add a movie to the database</h2>
+    <form id="addMovie">
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="text" name="director" placeholder="Director" required>
+        <input type="number" name="year" placeholder="Year">
+        <select name="genre">
+            <option value="action">Action</option>
+            <option value="drama">Drama</option>
+            <option value="fantasy">Fantasy</option>
+        </select>
+        <button>Add movie</button>
+    </form>
+    <br>
+    <h2>Get movie by year</h2>
+    <form id="searchYear">
+        <input type="number" placeholder="enter a year" required>
+        <button>Get movies</button>
+    </form>
+    <div id="movieContainer"></div>
+</body>
+</html>

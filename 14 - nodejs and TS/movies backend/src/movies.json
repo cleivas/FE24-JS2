@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "genre": "drama"
+  },
+  {
+    "name": "The dark knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "genre": "action"
+  },
+  {
+    "name": "Super Hero",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "genre": "fantasy"
+  },
+  {
+    "name": "Princess Mononoke",
+    "year": 1997,
+    "director": "Studio gibli",
+    "genre": "fantasy"
+  },
+  {
+    "name": "Die Hard",
+    "year": 1988,
+    "director": "John McTiernan",
+    "genre": "Action"
+  },
+  {
+    "name": "Trolls 2",
+    "genre": "fantasy",
+    "director": "Vet ej",
+    "year": 2022
+  }
+]
